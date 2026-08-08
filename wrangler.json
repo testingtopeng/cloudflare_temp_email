@@ -1,5 +1,6 @@
 {
   "name": "cloudflare-temp-email",
+  "main": "worker/worker.js",
   "compatibility_date": "2026-08-08",
   "assets": {
     "directory": "frontend/dist"
