@@ -1,6 +1,6 @@
 {
   "name": "cloudflare-temp-email",
-  "main": "worker/index.js",
+  "main": "worker.js",
   "compatibility_date": "2026-08-08",
   "compatibility_flags": [
     "nodejs_compat"
